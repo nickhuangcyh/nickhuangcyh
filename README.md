@@ -9,7 +9,9 @@
 - 🤖 I love to automate routine things
 - 🌎 I want to create something that makes the world better
 
-### 📒 Connect with me:
+---
+
+### Connect with me 📒 :
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
@@ -19,7 +21,9 @@
 
 <br />
 
-### 🌏 Languages and 🛠 Tools:
+---
+
+### Languages 🌏 and Tools 🛠 :
 
 [<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />][swift]
 [<img align="left" alt="Objective-C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" style="padding-right:10px;" />][objc]
@@ -35,7 +39,9 @@
 
 <br />
 
-### 📔 Latest Blog Posts
+---
+
+### Latest Blog Posts 📔 
 
 <!-- BLOG-POST-LIST:START -->
 - [Design Pattern 系列 &lpar;6&rpar; - Abstract Factory Pattern](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-6-abstract-factory-pattern/)
@@ -45,7 +51,9 @@
 - [Design Pattern 系列 &lpar;2&rpar; - Design Patterns Categories](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-2-design-patterns-categories/)
 <!-- BLOG-POST-LIST:END -->
 
-### 📺 Latest YouTube Videos
+---
+
+### Latest YouTube Videos 📺 
 <!-- YOUTUBE:START  --><table><tr><td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI"><img width="140px" src="https://i.ytimg.com/vi/ZPAoAESMHoI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI">How to annoy my cat? #shorts</a><br/>Sep 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ruO61B2sTmw"><img width="140px" src="https://i.ytimg.com/vi/ruO61B2sTmw/mqdefault.jpg"></a></td>
@@ -60,7 +68,7 @@
 
 ---
 
-### 👨🏻‍💻 GitHub Stats
+### GitHub Stats 👨🏻‍💻 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickhuangcyh&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickhuangcyh&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
