@@ -16,7 +16,7 @@
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
 [<img align="left" alt="Instagram" width="26px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/0b/fc/04/0bfc04bc-8359-446b-5953-6b8a19858e9c/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.webp" style="padding-right:10px;" />][instagram]
-[<img align="left" alt="Website" width="26px" src="https://www.pinclipart.com/picdir/middle/257-2576819_website-icons-download-for-free-in-png-and.png" style="padding-right:10px;" />][website]
+[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="padding-right:10px;" />][email]
 
 <br />
@@ -27,11 +27,11 @@
 
 [<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />][swift]
 [<img align="left" alt="Objective-C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" style="padding-right:10px;" />][objc]
-[<img align="left" alt="XCode" width="26px" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" style="padding-right:10px;" />][xcode]
+[<img align="left" alt="XCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />][xcode]
 
 [<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />][kotlin]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][java]
-[<img align="left" alt="Android Studio" width="26px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />][android studio]
+[<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][android studio]
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][docker]
@@ -41,9 +41,10 @@
 
 ---
 
-### Latest Blog Posts 📔 
+### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+
 - [如何抓取 iOS 的網路封包](https://nickhuangcyh.github.io/blog/tools/how-to-capture-network-packet-on-ios/)
 - [如何抓取 Android 的網路封包](https://nickhuangcyh.github.io/blog/tools/how-to-capture-network-packet-on-android-using-tcpdump/)
 - [Design Pattern 系列 &lpar;6&rpar; - Abstract Factory Pattern](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-6-abstract-factory-pattern/)
@@ -53,7 +54,8 @@
 
 ---
 
-### Latest YouTube Videos 📺 
+### Latest YouTube Videos 📺
+
 <!-- YOUTUBE:START  --><table><tr><td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI"><img width="140px" src="https://i.ytimg.com/vi/ZPAoAESMHoI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI">How to annoy my cat? #shorts</a><br/>Sep 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ruO61B2sTmw"><img width="140px" src="https://i.ytimg.com/vi/ruO61B2sTmw/mqdefault.jpg"></a></td>
@@ -68,7 +70,7 @@
 
 ---
 
-### GitHub Stats 👨🏻‍💻 
+### GitHub Stats 👨🏻‍💻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickhuangcyh&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickhuangcyh&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
