@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern 系列 &lpar;7&rpar; - Builder Pattern](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-7-builder-pattern/)
 - [如何抓取 iOS 的網路封包](https://nickhuangcyh.github.io/blog/tools/how-to-capture-network-packet-on-ios/)
 - [如何抓取 Android 的網路封包](https://nickhuangcyh.github.io/blog/tools/how-to-capture-network-packet-on-android-using-tcpdump/)
 - [Design Pattern 系列 &lpar;6&rpar; - Abstract Factory Pattern](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-6-abstract-factory-pattern/)
 - [Design Pattern 系列 &lpar;5&rpar; - Factory Method Pattern](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-5-factory-method-pattern/)
-- [Design Pattern 系列 &lpar;4&rpar; - Simple Factory Pattern](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-4-simple-factory-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
