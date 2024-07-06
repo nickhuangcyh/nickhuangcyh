@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [深入解析 Google Wallet Smart Tap：未來的支付方式](https://nickhuangcyh.github.io/blog/pay/technology/google-wallet-smart-tap-exploring/)
 - [Design Pattern 系列 &lpar;4&rpar; - 深入UML圖：設計模式的視覺化工具](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-4-uml/)
 - [Design Pattern 系列 &lpar;3&rpar; - 深入探索設計模式： &lpar;Design Pattern&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-3-design-pattern/)
 - [Design Pattern 系列 &lpar;2&rpar; - 設計原則深掘：打造靈活與可維護代碼的秘訣 &lpar;Design Principle&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-2-design-principle/)
 - [Design Pattern 系列 &lpar;1&rpar; - 掌握物件導向的核心概念 &lpar;Object-Oriented Concepts&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-1-object-oriented-concepts/)
-- [Design Pattern 系列 &lpar;7&rpar; - Builder Pattern](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-7-builder-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
