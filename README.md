@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern &lpar;9&rpar; - Prototype Pattern &lpar;原型模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-9-prototype-pattern/)
 - [How to build CHIPTool for Android](https://nickhuangcyh.github.io/blog/tools/how-to-build-chiptool-for-android/)
 - [Design Pattern &lpar;8&rpar; - Builder Pattern &lpar;建造者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-8-builder-pattern/)
 - [Design Pattern &lpar;7&rpar; - Abstract Factory Pattern &lpar;抽象工廠模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-7-abstract-factory-pattern/)
 - [Design Pattern &lpar;6&rpar; - Factory Method Pattern &lpar;工廠方法模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-6-factory-method-pattern/)
-- [Design Pattern &lpar;5&rpar; - Simple Factory Pattern &lpar;簡單工廠模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-5-simple-factory-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
