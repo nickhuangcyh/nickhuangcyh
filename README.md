@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins &lpar;2&rpar; - 如何架設 Jenkins 伺服器](https://nickhuangcyh.github.io/blog/devops/jenkins-2-how-to-setup-jenkins-server/)
+- [Jenkins &lpar;1&rpar; - 什麼是 Jenkins](https://nickhuangcyh.github.io/blog/devops/jenkins-1-what-is-jenkins/)
 - [Design Pattern &lpar;10&rpar; - Singleton Pattern &lpar;單例模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-10-singleton-pattern/)
 - [How to Enable RSA Encryption Algorithm Key in OpenSSH 8.8](https://nickhuangcyh.github.io/blog/cryptography/openssh/security/how-to-enable-rsa-encryption-algorithm-key-in-openssh-8.8/)
 - [Getting Started with GitHub Container Registry](https://nickhuangcyh.github.io/blog/devops/getting-started-with-github-container-registry/)
-- [Design Pattern &lpar;9&rpar; - Prototype Pattern &lpar;原型模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-9-prototype-pattern/)
-- [How to build CHIPTool for Android](https://nickhuangcyh.github.io/blog/tools/how-to-build-chiptool-for-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
