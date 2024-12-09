@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern &lpar;12&rpar; - Bridge Pattern &lpar;橋接模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-12-bridge-pattern/)
 - [Design Pattern &lpar;11&rpar; - Adapter Pattern &lpar;轉接器模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-11-adapter-pattern/)
 - [Google AdSense](https://nickhuangcyh.github.io/blog/google/google-adsense/)
 - [Jenkins &lpar;2&rpar; - 如何架設 Jenkins 伺服器](https://nickhuangcyh.github.io/blog/devops/jenkins-2-how-to-setup-jenkins-server/)
 - [Jenkins &lpar;1&rpar; - 什麼是 Jenkins](https://nickhuangcyh.github.io/blog/devops/jenkins-1-what-is-jenkins/)
-- [Design Pattern &lpar;10&rpar; - Singleton Pattern &lpar;單例模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-10-singleton-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
