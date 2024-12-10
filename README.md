@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins &lpar;3&rpar; - 如何配置 Credentials 以透過 SSH 從 git 上拉取程式碼](https://nickhuangcyh.github.io/blog/devops/jenkins-3-configure-credentials-ssh/)
+- [Design Pattern 13 Composite Pattern](https://nickhuangcyh.github.io/blog/design-pattern-13-composite-pattern/)
 - [Design Pattern &lpar;12&rpar; - Bridge Pattern &lpar;橋接模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-12-bridge-pattern/)
 - [Design Pattern &lpar;11&rpar; - Adapter Pattern &lpar;轉接器模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-11-adapter-pattern/)
 - [Google AdSense](https://nickhuangcyh.github.io/blog/google/google-adsense/)
-- [Jenkins &lpar;2&rpar; - 如何架設 Jenkins 伺服器](https://nickhuangcyh.github.io/blog/devops/jenkins-2-how-to-setup-jenkins-server/)
-- [Jenkins &lpar;1&rpar; - 什麼是 Jenkins](https://nickhuangcyh.github.io/blog/devops/jenkins-1-what-is-jenkins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
