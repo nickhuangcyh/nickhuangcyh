@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern &lpar;16&rpar; - Flyweight Pattern &lpar;享元模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-16-flyweight-pattern/)
 - [Design Pattern &lpar;15&rpar; - Facade Pattern &lpar;外觀模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-15-facade-pattern/)
 - [Design Pattern &lpar;14&rpar; - Decorator Pattern &lpar;裝飾者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-14-decorator-pattern/)
 - [Design Pattern &lpar;13&rpar; - Composite Pattern &lpar;組合模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-13-composite-pattern/)
 - [Jenkins &lpar;3&rpar; - 如何配置 Credentials 以透過 SSH 從 git 上拉取程式碼](https://nickhuangcyh.github.io/blog/devops/jenkins-3-configure-credentials-ssh/)
-- [Design Pattern &lpar;12&rpar; - Bridge Pattern &lpar;橋接模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-12-bridge-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
