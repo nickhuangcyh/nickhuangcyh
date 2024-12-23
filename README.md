@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern &lpar;20&rpar; - Iterator Pattern &lpar;迭代器模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-20-iterator-pattern/)
+- [Design Pattern &lpar;21&rpar; - Mediator Pattern &lpar;中介者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-21-mediator-pattern/)
 - [Design Pattern &lpar;19&rpar; - Command Pattern &lpar;命令模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-19-command-pattern/)
 - [Design Pattern &lpar;18&rpar; - Chain of Responsibility Pattern &lpar;責任鏈模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-18-chain-of-responsibility-pattern/)
 - [Design Pattern &lpar;17&rpar; - Proxy Pattern &lpar;代理模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-17-proxy-pattern/)
-- [Design Pattern &lpar;16&rpar; - Flyweight Pattern &lpar;享元模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-16-flyweight-pattern/)
-- [Design Pattern &lpar;15&rpar; - Facade Pattern &lpar;外觀模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-15-facade-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
