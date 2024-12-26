@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern &lpar;24&rpar; - State Pattern &lpar;狀態模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-24-state-pattern/)
 - [Design Pattern &lpar;20&rpar; - Iterator Pattern &lpar;迭代器模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-20-iterator-pattern/)
 - [Design Pattern &lpar;21&rpar; - Mediator Pattern &lpar;中介者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-21-mediator-pattern/)
 - [Design Pattern &lpar;22&rpar; - Memento Pattern &lpar;備忘錄模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-22-memento-pattern/)
 - [Design Pattern &lpar;23&rpar; - Observer Pattern &lpar;觀察者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-23-observer-pattern/)
-- [Design Pattern &lpar;19&rpar; - Command Pattern &lpar;命令模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-19-command-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
