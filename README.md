@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup Development Environment on a New macOS](https://nickhuangcyh.github.io/blog/setup%20guide/setup-development-environment-on-a-new-macos/)
 - [Design Pattern &lpar;28&rpar; - Interpreter Pattern &lpar;解譯器模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-28-interpreter-pattern/)
 - [Design Pattern &lpar;27&rpar; - Visitor Pattern &lpar;訪問者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-27-visitor-pattern/)
 - [Design Pattern &lpar;26&rpar; - Template Method Pattern &lpar;模板方法模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-26-template-method-pattern/)
 - [Design Pattern &lpar;25&rpar; - Strategy Pattern &lpar;策略模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-25-strategy-pattern/)
-- [Design Pattern &lpar;24&rpar; - State Pattern &lpar;狀態模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-24-state-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
