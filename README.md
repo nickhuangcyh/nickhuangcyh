@@ -56,7 +56,7 @@
 ### Latest YouTube Videos 📺
 
 <!-- YOUTUBE:START  --><table><tr><td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw"><img width="140px" src="https://i.ytimg.com/vi/cs8c8dObHIw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw">A Day in the Life: Running My First Half Marathon 🏃 | 半程馬拉松初體驗 #marathon #life</a><br/>Apr 29, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw">Running My First Half Marathon! 半程馬拉松初體驗! #marathon #life</a><br/>Apr 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI"><img width="140px" src="https://i.ytimg.com/vi/ZPAoAESMHoI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI">How to annoy my cat? #shorts</a><br/>Sep 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ruO61B2sTmw"><img width="140px" src="https://i.ytimg.com/vi/ruO61B2sTmw/mqdefault.jpg"></a></td>
