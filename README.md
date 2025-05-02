@@ -55,7 +55,9 @@
 
 ### Latest YouTube Videos 📺
 
-<!-- YOUTUBE:START  --><table><tr><td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw"><img width="140px" src="https://i.ytimg.com/vi/cs8c8dObHIw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START  --><table><tr><td><a href="https://www.youtube.com/watch?v=dZqXtNyrjvM"><img width="140px" src="https://i.ytimg.com/vi/dZqXtNyrjvM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dZqXtNyrjvM">Snoozed 3 Times Before My First Half Marathon?! 從賴床到終點，第一次半馬?! #marathon #life</a><br/>May 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw"><img width="140px" src="https://i.ytimg.com/vi/cs8c8dObHIw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw">Running My First Half Marathon! 半程馬拉松初體驗! #marathon #life</a><br/>Apr 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI"><img width="140px" src="https://i.ytimg.com/vi/ZPAoAESMHoI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZPAoAESMHoI">How to annoy my cat? #shorts</a><br/>Sep 25, 2022</td></tr></table>
@@ -63,8 +65,6 @@
 <td><a href="https://www.youtube.com/watch?v=ruO61B2sTmw">iPhone 13 unboxing</a><br/>Sep 17, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EpQ9mrKIL1Q"><img width="140px" src="https://i.ytimg.com/vi/EpQ9mrKIL1Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EpQ9mrKIL1Q">iPhone 13 mini Unboxing</a><br/>Sep 17, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WQFIotivct0"><img width="140px" src="https://i.ytimg.com/vi/WQFIotivct0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WQFIotivct0">AHA Style Apple Pencil tip Unboxing</a><br/>Aug 31, 2022</td></tr></table>
 <!-- YOUTUBE:END  -->
 
 ---
