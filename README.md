@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [💡 一台電腦操作多個 GitHub 帳號：最簡單快速的 SSH 設定方法](https://nickhuangcyh.github.io/blog/devops/productivity/github/how-to-use-multiple-github-accounts-using-ssh/)
 - [🚀 如何使用 Excalidraw AI 快速生成專業級圖表，提升工作效率！](https://nickhuangcyh.github.io/blog/ai%20tools/visualization/productivity/ai-tools-excalidraw-chart-guide/)
 - [Setup Development Environment on a New macOS](https://nickhuangcyh.github.io/blog/setup%20guide/setup-development-environment-on-a-new-macos/)
 - [Design Pattern &lpar;28&rpar; - Interpreter Pattern &lpar;解譯器模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-28-interpreter-pattern/)
 - [Design Pattern &lpar;27&rpar; - Visitor Pattern &lpar;訪問者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-27-visitor-pattern/)
-- [Design Pattern &lpar;26&rpar; - Template Method Pattern &lpar;模板方法模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-26-template-method-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
