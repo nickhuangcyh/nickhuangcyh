@@ -55,16 +55,16 @@
 
 ### Latest YouTube Videos 📺
 
-<!-- YOUTUBE:START  --><table><tr><td><a href="https://www.youtube.com/watch?v=qve8liX-1Fo"><img width="140px" src="https://i.ytimg.com/vi/qve8liX-1Fo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START  --><table><tr><td><a href="https://www.youtube.com/shorts/uOAMAnrC9x8"><img width="140px" src="https://i.ytimg.com/vi/uOAMAnrC9x8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/uOAMAnrC9x8">Cheesy Tuna Tomato Rice in One Pot! 😍🍅🧀 #lazycook #speedcook #ricecookerhack #cheesyrice #shorts</a><br/>Jun 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xE9YXjH9qug"><img width="140px" src="https://i.ytimg.com/vi/xE9YXjH9qug/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xE9YXjH9qug">Cheesy Tuna Tomato Rice in One Pot! 😍🍅🧀 #lazycook #speedcook #ricecookerhack #cheesyrice</a><br/>Jun 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qve8liX-1Fo"><img width="140px" src="https://i.ytimg.com/vi/qve8liX-1Fo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qve8liX-1Fo">Google Pixel 9a Unboxing in 30 Seconds! 🚀 #unboxing #pixel9a #androidphone</a><br/>Jun 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/KnJgcbVjBPA"><img width="140px" src="https://i.ytimg.com/vi/KnJgcbVjBPA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/KnJgcbVjBPA">Google Pixel 9a Unboxing in 30 Seconds! 🚀 #unboxing #pixel9a #androidphone</a><br/>Jun 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/dZqXtNyrjvM"><img width="140px" src="https://i.ytimg.com/vi/dZqXtNyrjvM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/dZqXtNyrjvM">Snoozed 3 Times Before My First Half Marathon?! #marathon #life</a><br/>May 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw"><img width="140px" src="https://i.ytimg.com/vi/cs8c8dObHIw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cs8c8dObHIw">Running My First Half Marathon! #marathon #life</a><br/>Apr 29, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/ZPAoAESMHoI"><img width="140px" src="https://i.ytimg.com/vi/ZPAoAESMHoI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ZPAoAESMHoI">How to annoy my cat? #shorts</a><br/>Sep 25, 2022</td></tr></table>
 <!-- YOUTUBE:END  -->
 
 ---
