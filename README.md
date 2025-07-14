@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 一台電腦操作多個 GitHub 帳號：最簡單快速的 SSH 設定方法](https://nickhuangcyh.github.io/blog/devops/productivity/github/how-to-use-multiple-github-accounts-using-ssh/)
-- [🚀 如何使用 Excalidraw AI 快速生成專業級圖表，提升工作效率！](https://nickhuangcyh.github.io/blog/ai%20tools/visualization/productivity/ai-tools-excalidraw-chart-guide/)
-- [Setup Development Environment on a New macOS](https://nickhuangcyh.github.io/blog/setup%20guide/setup-development-environment-on-a-new-macos/)
-- [Design Pattern &lpar;28&rpar; - Interpreter Pattern &lpar;解譯器模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-28-interpreter-pattern/)
-- [Design Pattern &lpar;27&rpar; - Visitor Pattern &lpar;訪問者模式&rpar;](https://nickhuangcyh.github.io/blog/design%20pattern/design-pattern-27-visitor-pattern/)
+- [How to Use Multiple GitHub Accounts on One Computer: Complete SSH Setup Guide](https://nickhuangcyh.github.io/blog/devops/productivity/github/development/how-to-use-multiple-github-accounts-using-ssh/)
+- [Excalidraw AI: Create Professional Diagrams with Text Commands - Complete Guide](https://nickhuangcyh.github.io/blog/ai%20tools/visualization/productivity/development/ai-tools-excalidraw-chart-guide/)
+- [Complete macOS Development Environment Setup Guide for 2024](https://nickhuangcyh.github.io/blog/setup%20guide/development/macos/productivity/setup-development-environment-on-a-new-macos/)
+- [Design Pattern 28: Interpreter Pattern - Complete Guide with Examples](https://nickhuangcyh.github.io/blog/design%20pattern/software%20engineering/programming/design-pattern-28-interpreter-pattern/)
+- [Design Pattern 27: Visitor Pattern - Complete Guide with Real-World IoT Examples](https://nickhuangcyh.github.io/blog/design%20pattern/software%20engineering/programming/design-pattern-27-visitor-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
