@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 AI Agent Series &lpar;Part 1&rpar;: Understanding the Core Logic of LLM, RAG, and MCP](https://nickhuangcyh.github.io/blog/ai/agent/developer%20tools/intro-to-ai-agents-mcp-rag-llm/)
 - [How to Use Multiple GitHub Accounts on One Computer: Complete SSH Setup Guide](https://nickhuangcyh.github.io/blog/devops/productivity/github/development/how-to-use-multiple-github-accounts-using-ssh/)
 - [Excalidraw AI: Create Professional Diagrams with Text Commands - Complete Guide](https://nickhuangcyh.github.io/blog/ai%20tools/visualization/productivity/development/ai-tools-excalidraw-chart-guide/)
 - [Complete macOS Development Environment Setup Guide for 2024](https://nickhuangcyh.github.io/blog/setup%20guide/development/macos/productivity/setup-development-environment-on-a-new-macos/)
 - [Design Pattern 28: Interpreter Pattern - Complete Guide with Examples](https://nickhuangcyh.github.io/blog/design%20pattern/software%20engineering/programming/design-pattern-28-interpreter-pattern/)
-- [Design Pattern 27: Visitor Pattern - Complete Guide with Real-World IoT Examples](https://nickhuangcyh.github.io/blog/design%20pattern/software%20engineering/programming/design-pattern-27-visitor-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
