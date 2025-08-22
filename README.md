@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI Agent Series &lpar;Part 1&rpar;: Understanding the Core Logic of LLM, RAG, and MCP](https://nickhuangcyh.github.io/blog/ai/agent/developer%20tools/intro-to-ai-agents-mcp-rag-llm/)
-- [How to Use Multiple GitHub Accounts on One Computer: Complete SSH Setup Guide](https://nickhuangcyh.github.io/blog/devops/productivity/github/development/how-to-use-multiple-github-accounts-using-ssh/)
-- [Excalidraw AI: Create Professional Diagrams with Text Commands - Complete Guide](https://nickhuangcyh.github.io/blog/ai%20tools/visualization/productivity/development/ai-tools-excalidraw-chart-guide/)
-- [Complete macOS Development Environment Setup Guide for 2024](https://nickhuangcyh.github.io/blog/setup%20guide/development/macos/productivity/setup-development-environment-on-a-new-macos/)
-- [Design Pattern 28: Interpreter Pattern - Complete Guide with Examples](https://nickhuangcyh.github.io/blog/design%20pattern/software%20engineering/programming/design-pattern-28-interpreter-pattern/)
+- [Claude Code 使用技巧與最佳實踐 - Tips and Best Practices](https://nickhuangcyh.github.io/blog/ai%20development%20tools/claude-code-tips-and-best-practices/)
+- [🤖 AI Agent Series &lpar;Part 1&rpar;: Understanding the Core Interaction Logic of LLM, RAG, and MCP](https://nickhuangcyh.github.io/blog/ai/machine-learning/developer-tools/programming/intro-to-ai-agents-mcp-rag-llm/)
+- [💡 Managing Multiple GitHub Accounts on One Computer: The Simplest SSH Configuration Method](https://nickhuangcyh.github.io/blog/devops/git/github/developer-tools/how-to-use-multiple-github-accounts-using-ssh/)
+- [🚀 How to Use Excalidraw AI to Quickly Generate Professional Diagrams and Boost Work Efficiency!](https://nickhuangcyh.github.io/blog/ai-tools/visualization/productivity/design/ai-tools-excalidraw-chart-guide/)
+- [Complete macOS Development Environment Setup Guide: Mobile Development Toolchain Configuration Tutorial](https://nickhuangcyh.github.io/blog/setup%20guide/setup-development-environment-on-a-new-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
