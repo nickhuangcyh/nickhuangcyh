@@ -44,11 +44,11 @@
 ### Latest Blog Posts 📔
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Code Review Agent from Scratch: Simultaneously Boosting Team Efficiency and Code Quality](https://nickhuangcyh.github.io/blog/ai/software%20engineering/building-ai-code-review-agent/)
 - [DevFest 2025 Notes: Developer Evolution in the Age of AI Agents](https://nickhuangcyh.github.io/blog/conference/devfest-2025-notes/)
 - [Claude Code Complete Tutorial: 30+ Practical Tips to Boost AI Development Efficiency【2025 Latest】](https://nickhuangcyh.github.io/blog/ai%20development%20tools/claude-code-tips-and-best-practices/)
 - [🤖 AI Agent Series &lpar;Part 1&rpar;: Understanding the Core Interaction Logic of LLM, RAG, and MCP](https://nickhuangcyh.github.io/blog/ai/machine-learning/developer-tools/programming/intro-to-ai-agents-mcp-rag-llm/)
 - [💡 Managing Multiple GitHub Accounts on One Computer: The Simplest SSH Configuration Method](https://nickhuangcyh.github.io/blog/devops/git/github/developer-tools/how-to-use-multiple-github-accounts-using-ssh/)
-- [🚀 How to Use Excalidraw AI to Quickly Generate Professional Diagrams and Boost Work Efficiency!](https://nickhuangcyh.github.io/blog/ai-tools/visualization/productivity/design/ai-tools-excalidraw-chart-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
